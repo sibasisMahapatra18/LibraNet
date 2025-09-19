@@ -1,0 +1,74 @@
+
+======================================
+      Welcome to LibraNet 
+   Your Digital Library Assistant
+======================================
+
+--- MENU ---
+1. View all items
+2. Borrow item
+3. Return item
+4. Play audiobook
+5. Archive magazine issue
+6. Exit
+Enter choice: 1
+
+--- Library Items ---
+[Book] ID: 1 | Title: Java Basics | Author: John Doe | Pages: 300 | Available: true | Fine: Rs.0.0
+[Audiobook] ID: 2 | Title: Learn DSA | Author: Alice Smith | Duration: 120.0 mins | Available: true | Fine: Rs.0.0
+[E-Magazine] ID: 3 | Title: Tech Today | Author: Editorial Board | Issue No: 45 | Available: true | Fine: Rs.0.0
+
+--- MENU ---
+1. View all items
+2. Borrow item
+3. Return item
+4. Play audiobook
+5. Archive magazine issue
+6. Exit
+Enter choice: 2
+Enter item ID to borrow: 2
+Learn DSA borrowed successfully!
+
+--- MENU ---
+1. View all items
+2. Borrow item
+3. Return item
+4. Play audiobook
+5. Archive magazine issue
+6. Exit
+Enter choice: 4
+Enter audiobook ID: 2
+Playing audiobook: Learn DSA (120.0 mins)
+
+--- MENU ---
+1. View all items
+2. Borrow item
+3. Return item
+4. Play audiobook
+5. Archive magazine issue
+6. Exit
+Enter choice: 3
+Enter item ID to return: 2
+Enter actual borrowed days: 15
+Learn DSA returned. Fine: Rs.10.0
+
+--- MENU ---
+1. View all items
+2. Borrow item
+3. Return item
+4. Play audiobook
+5. Archive magazine issue
+6. Exit
+Enter choice: 5
+Enter magazine ID: 3
+Archiving issue 45 of Tech Today
+
+--- MENU ---
+1. View all items
+2. Borrow item
+3. Return item
+4. Play audiobook
+5. Archive magazine issue
+6. Exit
+Enter choice: 6
+Exiting LibraNet. Goodbye!
